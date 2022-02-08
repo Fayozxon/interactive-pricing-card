@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Fayozxon/interactive-pricing-card)
+- Live Site URL: [Interactive Pricing](https://pricing-mentor.netlify.app/)
 
 ## My process
 
@@ -110,6 +110,6 @@ function changePrice() {
 
 ## Author
 
-- YouTube - [F's Codes](https://www.youtube.com/)
+- YouTube - [F's Codes](https://www.youtube.com/channel/UC0gnEmyk1huMdAR8t-VZa4g)
 - Frontend Mentor - [@fayozxon](https://www.frontendmentor.io/profile/fayozxon)
 - GitHub - [@fayozxon](https://www.github.com/fayozxon)
